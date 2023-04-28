@@ -1,0 +1,10 @@
+name: phasornoisepython
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - numpy
+  - pyopencl
+  - vtk
+  - ocl_icd_wrapper_apple
